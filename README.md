@@ -1,16 +1,38 @@
 ## Hi there 👋
 
-<!--
-**EsterTriW/EsterTriW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💼 Ester Tri Wahyuningsih | Portfolio
 
-Here are some ideas to get you started:
+🎯 **Mathematician | Data Analyst | Pricing and Product Insurance**  
+📍 Based in Jakarta & Bandung | 💻 Passionate about Mathematical & Statistical Modeling, Data Science & Machine Learning 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 About Me  
+I am an undergraduate student in Mathematics at ITB with expertise in statistical and mathematical modeling, as well as machine learning. I believe in analytics, data-driven decision-making, and continuous learning, and I am passionate about applying mathematical and analytical skills to solve real-world problems.
+
+🔹 Main Fields: [e.g., Data Science, Data Analyst, Math & Statistical modelling]
+🔹 Key Skills: [Python, R, SQL, Excel, Machine Learning, Matlab]
+
+---
+## 📖 Learning & Interests  
+
+🔹 **Machine Learning & AI** – Exploring supervised and unsupervised learning techniques  
+🔹 **Mathematical Modeling** – Applying differential equations and optimization methods  
+🔹 **Data Analysis & Visualization** – Practicing with Pandas, Matplotlib, and Power BI  
+
+---
+
+## 🔧 Skills & Tools  
+
+| **Kategori** | **Tools** |
+|-------------|----------|
+| **Programming** | Python, R, SQL, Matlab |
+| **Data Science** | Pandas, NumPy, Machine Learning |
+| **Visualization** | Matplotlib, Seaborn, Power BI |
+
+---
+
+## 📬 Contact Me  
+📧 Email: [estertriw16@gmail.com](mailto:email@example.com)  
+🔗 LinkedIn: [linkedin.com/in/estertriw](https://linkedin.com/in/estertriw)  
+---
+
+⭐ **Feel free to explore my repositories and connect with me!**  
